@@ -1,2 +1,2 @@
---Showing all the tables in a database
+-- This SQL command lists all the tables.
 SHOW TABLES;
