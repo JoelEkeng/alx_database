@@ -1,7 +1,7 @@
 -- Script that creates a database and table
 CREATE DATABASE IF NOT EXISTS hbtn_0d_usa;
 
-USE hbtn_0d_2;
+USE hbtn_0d_usa;
 
 CREATE TABLE IF NOT EXISTS cities(
     id INT UNIQUE AUTO_INCREMENT PRIMARY KEY NOT NULL,
